@@ -3,7 +3,7 @@ import '../styles/App.css';
 import styles from '../styles/appStyles.module.css';
 const App = () => {
 const heading ={
-font-size:"50px",
+fontSize:"50px",
   color:"red"
 }
   return (
